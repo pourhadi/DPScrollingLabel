@@ -5,7 +5,7 @@ My own implementation of a label that scrolls horizontally when the length of it
 
 To install, just add DPScrollingLabel.h and .m to your Xcode project.
 
-You can customization the labels font, textColor, and highlightedTextColor. Set the text with -setText:.
+You can customize the label's font, textColor, and highlightedTextColor. Set the text with -setText:.
 
 And for the scrolling functionality, you can change the distance between the end of the text and the start of its next instance when scrolling.
 
