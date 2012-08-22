@@ -3,12 +3,15 @@ DPScrollingLabel
 (for iOS and ARC)
 
 Summary
+================
 My own implementation of a label that scrolls horizontally when the length of its text exceeds the length of its frame.
 
 Installation
+================
 To install, just add DPScrollingLabel.h and .m to your Xcode project.
 
 Usage
+================
 Initialize an instance of DPScrollingLabel with -initWithFrame: and add it to your view hierarchy.
 
 You can customize the label's font, textColor, and highlightedTextColor. Set the text with -setText:.
