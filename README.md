@@ -4,7 +4,7 @@ DPScrollingLabel
 
 Summary
 ================
-My own implementation of a label that scrolls horizontally when the length of its text exceeds the length of its frame.
+UILabel-like UIScrollView subclass that scrolls horizontally when the length of its text exceeds the length of its frame.
 
 Installation
 ================
